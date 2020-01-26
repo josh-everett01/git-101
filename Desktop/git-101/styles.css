@@ -1,3 +1,7 @@
 h1 {
   color: blue;
 }
+
+body p {
+  border: dotted 2px red;
+}
