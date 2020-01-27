@@ -5,3 +5,12 @@ h1 {
 body p {
   border: dotted 2px red;
 }
+
+button {
+  display: inline;
+  height: 30px;
+  width: 215px;
+  padding: 3rem;
+  border: solid 4px blue;
+  text-align: center;
+}
